@@ -1,0 +1,6 @@
+torch
+torchaudio
+tensorflow
+ffmpeg-python
+scipy
+librosa
