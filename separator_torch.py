@@ -348,7 +348,7 @@ class Separator(object):
 
             # exit(0)
             
-            save_path = os.path.join(output_dir, (wav_name + '-' + self.num_instruments[i] + '.wav'))
+            save_path = os.path.join(output_dir, (wav_name + '_' + self.num_instruments[i] + '.wav'))
             
             self._save_to_file(save_path, wav_masked, samplerate, 'wav', '128k')
 

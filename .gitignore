@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Others
+*.wav
+2stems/checkpoint
+2stems/model.data-00000-of-00001
+2stems/model.index
+2stems/model.meta
+output/.DS_Store
